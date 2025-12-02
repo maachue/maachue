@@ -1,3 +1,3 @@
 ### Hi there! 👋  
 
-| Just a free person interested in computers 🐦
+> Just a free person interested in computers 🐦
