@@ -1,24 +1,15 @@
-# Hi 👋
+# Hi
 
-Just a free person interested in computers. 🐦
+_Just a little sparrow ..._
 
 ## About
 
-```cpp
-struct AboutMe {
-  static constexpr const char* alias = "Maachue";
+- alias __"Maachue"__ or __"Chue"__
+- C++ ; Rust ; Python
+- __No jobs__ and any __certificated__
+- Windows ; Fedora and Android
+- Nvim ; VSCode
 
-  std::array<std::string, 3> languages{"C++", "Rust", "Python"};
-  std::array<std::string, 1> current_learning{"Nothing :)"};
-  std::string current_learning_at = "home";
-  std::optional<Jobs> job = std::nullopt;
-  std::optional<EnglishLevel> englevel = EnglishLevel::A0;
+##  Others
 
-  std::array<std::string, 4> os{"Windows", "CachyOS", "Fedora", "Android"};
-  std::array<std::string, 3> editors{"neovim", "VSCode", "VSCodium"};
-};
-```
-
-## Projects
-
-***All my projects*** are used for **my personal dotfiles**, and solve my daily problems.
+nuthing :)
