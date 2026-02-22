@@ -6,7 +6,7 @@ _Just a little sparrow ..._
 
 - alias __"Maachue"__ or __"Chue"__
 - C++ ; Rust ; Python
-- __No jobs__ and any __certificated__
+- __No jobs__ or any __certificated__
 - Windows ; Fedora and Android
 - Nvim ; VSCode
 
