@@ -1,8 +1,6 @@
-# Hi
+_Just a **little sparrow**!_
 
-_Just a little sparrow ..._
-
-## About
+## More
 
 - alias __"Maachue"__ or __"Chue"__
 - C++ ; Rust ; Python
