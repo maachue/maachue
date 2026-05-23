@@ -1,4 +1,4 @@
-<img align="left" src="yo_1.jpg" width=280>
+<img align="left" src="yo_1.jpg" width=300>
 
 ### 麻雀 (マーチュエ) - Maachue
 
